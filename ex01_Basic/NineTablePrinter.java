@@ -16,5 +16,5 @@ public class NineTablePrinter {
             System.out.printf("%d * %d = %d%n", tableNumber, i, result);
         }
     }
-}
+
 }
