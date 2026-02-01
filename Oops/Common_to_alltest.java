@@ -1,14 +1,15 @@
 package Oops;
 
 public class Common_to_alltest {
-    void startBrowser(){
+    void startBrowser() {
         System.out.println("startBrowser");
     }
-    void endBrowser(){
+
+    void endBrowser() {
         System.out.println("endBrowser");
     }
-    void readBrowser(){
-        System.out.println("readBrowser");
+
+    void readBrowser() {
+        System.out.println("readBrotance");
     }
 }
-//single ineritance
