@@ -12,7 +12,7 @@ public class IQ {
         System.out.println(c.equals(d));
 
         //Integer num = null;
-       // int value = num; //Null point exception
+       // int value = num; //Null point Collection_Framwok.exception
       //  System.out.println(value);
 
         Integer aaa =10;
